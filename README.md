@@ -1,7 +1,8 @@
 # UMKC Campus Graph Project
 
-**Authors:** Syed Abdul Mateen Shah
-             Anas Ali
+**Authors:**
+Syed Abdul Mateen Shah
+ Anas Ali
 
 ## Overview
 
